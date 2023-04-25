@@ -7,10 +7,12 @@
 
 💻 My skills include:
 - HTML/CSS
+- SEO
 - JavaScript
 - Node.js
 - MongoDB
 - Vue.js
+- SQL (currently learning)
 - PHP (currently learning)
 - Laravel (currently learning)
 - Docker (currently learning)
